@@ -1,7 +1,7 @@
 #include "stdio.h"          // Include the standard input/output library
 #include "stdlib.h"         // Include the standard library
-#include "tokenizer.h"     // Include your custom "tokenizer" library (assuming it contains necessary data structures)
-#include "history.h"        // Include your custom "history" library (assuming it contains necessary data structures)
+#include "tokenizer.h"     // Include your custom "tokenizer" library 
+#include "history.h"        // Include your custom "history" library 
 
 int main()
 {
